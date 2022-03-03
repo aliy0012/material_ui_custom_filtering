@@ -1,0 +1,34 @@
+{
+  "name": "datagrid-v5",
+  "version": "1.0.0",
+  "description": "As described in http://mui.com/components/data-grid/getting-started/.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/styles": "latest",
+    "@mui/x-data-grid": "next",
+    "@mui/x-data-grid-generator": "next",
+    "@mui/x-data-grid-pro": "5.5.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
